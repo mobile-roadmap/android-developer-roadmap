@@ -6,17 +6,17 @@ Based on the [Developer Roadmap](https://github.com/kamranahmedse/developer-road
 
 We hope that with this roadmap new developers find it easier to start building beautiful android applications.
 
-#### Android Roadmap
+## Android Roadmap
 
 ![Android Roadmap](./images/android_roadmap.png)
 
-### Contribute
+## Contribute
 
 If you think anything is missing or should not be there, or should be different, please open a pull request with your ideas.
 
 **This is a work in progress!**
 
-### Authors
+## Authors
 
 [1.1]: http://i.imgur.com/wWzX9uB.png (follow me on twitter)
 [2.1]: http://i.imgur.com/9I6NRUm.png (follow me on github)
@@ -29,6 +29,6 @@ If you think anything is missing or should not be there, or should be different,
 - Ana Coimbra [![alt text][1.1]][1][![alt text][2.1]][2]
 - Diogo Cabral [![alt text][1.1]][3][![alt text][2.1]][4]
 
-### Licence
+## Licence
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
