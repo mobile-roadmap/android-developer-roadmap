@@ -2,7 +2,7 @@
 
 ![GitHub contributors](https://img.shields.io/github/contributors/anacoimbrag/android-developer-roadmap.svg?style=flat-square)
 
-**Para a versão em inglês, [clique aqui](./README.md)**
+**For the english version, [click here](./README.md)**
 
 Baseado no [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap), que ajuda pessoas desenvolvedoras web com um direcionamento sobre o que aprender nessa área extensa, nós desenvolvemos o Android Developer Roadmap com o mesmo objetivo.
 
