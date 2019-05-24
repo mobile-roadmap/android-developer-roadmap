@@ -12,6 +12,10 @@ We hope that with this roadmap new developers find it easier to start building b
 
 ![Android Roadmap](./images/android_roadmap.png)
 
+## Acknowledgments
+
+We want to thank the Android dev community all over the world that helped us with some great insights, especially [Android Dev BR](https://github.com/androiddevbr). Without you this project wouldn't be as complete as it is.
+
 ## Contribute
 
 If you think anything is missing or should not be there, or should be different, please open a pull request with your ideas.

@@ -12,6 +12,10 @@ Nós esperamos que com este roadmap as novas pessoas desenvolvedoras tenham uma 
 
 ![Android Roadmap](./images/android_roadmap.png)
 
+## Agradecimentos
+
+Queremos agradecer a comunidade de desenvolvimento Android de todo o mundo que nos ajudou com diversas ideias, especialmente [Android Dev BR](https://github.com/androiddevbr). Sem vocês esse projeto não estaria tão robusto e completo quanto está.
+
 ## Contribua
 
 Se você acredita que algo está faltando ou não deveria estar aqui, ou que algo deveria ser diferente, por favor abra um pull request com suas ideias.
