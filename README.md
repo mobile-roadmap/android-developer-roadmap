@@ -20,7 +20,7 @@ We want to thank the Android dev community all over the world that helped us wit
 
 If you think anything is missing or should not be there, or should be different, please open a pull request with your ideas.
 
-**This is a work in progress!**
+[Here](./contribute/contributing.md) you can find how to contribute with the roadmap.
 
 ## Authors
 
