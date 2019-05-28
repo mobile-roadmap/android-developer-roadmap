@@ -20,7 +20,7 @@ Queremos agradecer a comunidade de desenvolvimento Android de todo o mundo que n
 
 Se você acredita que algo está faltando ou não deveria estar aqui, ou que algo deveria ser diferente, por favor abra um pull request com suas ideias.
 
-Você pode encontrar [aqui](./contribute/contributing_pt_br.md) como contribuir para o roadmap.
+Você pode encontrar [aqui](./docs/contributing_pt_br.md) como contribuir para o roadmap.
 
 ## Authors
 
