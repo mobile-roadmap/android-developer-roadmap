@@ -4,19 +4,19 @@
 
 ## Generating discussions
 
-If you have any suggestion about something that should be in the roadmap and if you want to validate it, we strongly recommend that you create an `issue` on our repository. In this way, we can create rich discussions that certanly will help a lot of people about the adoption of the content in its developments.
+If you have any suggestion about something that should be in the roadmap and if you want to validate it, we strongly recommend that you create an `issue` on our repository. In this way, we can achieve rich discussions that certanly will help a lot of people about the adoption of the content in its developments.
 
 ## Creating improvements
 
-If you have any improvement that you want to do directly in the roadmap, we recoomend that you create a `pull request` with basicaly two files: the roadmap image and the .fig file, both updated. Try to be descriptive in your PR, so we can analyze and discuss about what you are proposing. 
+If you have any improvements that you want to do directly in the roadmap, we recomend that you create a `pull request` with basicaly two files: the **roadmap image** and the **.fig file**, both updated. Try to be descriptive in your PR, so we can analyze and discuss about what you are proposing. 
 
 ### Using Figma
 
-Our project is built with [Figma](https://www.figma.com/). It is a free tool that is used to build prototypes, which turns it a better choose for the roadmap, because the idea here is that everyone can use the tool and improve the content.
+Our project is built with [Figma](https://www.figma.com/). It is a free tool used to build prototypes, which turns out to be a better choice for the roadmap, because the idea here is that everyone can use the tool and improve the content.
 
 1. Importing the roadmap
 
-    After you clone the repository, you will find inside the `project folder` the file `Android Developer Roadmap 2019.fig`. With this file, you can import the project in your Figma profile to edit it.
+    After you clone the repository, you will find inside the `project` folder the file `Android Developer Roadmap 2019.fig`. With this file, you can import the project in your Figma profile to edit it.
 
     ![How to import a .fig file in Figma](./importing_project.png)
 
@@ -26,7 +26,7 @@ Our project is built with [Figma](https://www.figma.com/). It is a free tool tha
 
     ![Ungroup the content](./ungroup_content.png)
 
-    Now you can click on each component, inner component end everythinh else to change what you want. Notice that we have a major box component (the box with the content `Programming Language`) and changing it the changes will be applied to each other box.
+    Now you can click on each component, inner component end everythinh else to change what you want. Notice that we have a major box component (the box with the content `Programming Language`) and changing it the changes will be applied to each other component.
 
 3. Exporting the changes
 
