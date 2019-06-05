@@ -8,6 +8,16 @@ Baseado no [Developer Roadmap](https://github.com/kamranahmedse/developer-roadma
 
 Nós esperamos que com este roadmap as novas pessoas desenvolvedoras tenham uma maior facilidade em começar a construir aplicações android incríveis.
 
+## Como utilizar
+
+Esse conteúdo é apenas um caminho de aprendizado sugerido para guiar você com seus estudos no Android. Para usar esse conteúdo, tenha em mente que o roadmap possui caixas macro, que estão no centro (seguindo a linha do caminho), e a partir deles temos caixas micro, que são conteúdos mais refinados sobre o tópico da caixa pai.
+
+Então, dessa forma, nós sugerimos que você leia das caixas macros até as micros, de cima para baixo. Essa é a maneira como pensamos sobre ter o fluxo de roadmap, considerando necessidades e dificuldades.
+
+Adicionalmente, é bom considerar que você não precisa saber tudo que está na imagem abaixo para ser uma boa pessoa desenvolvedora em se tratando de Android. Você pode ir sob demanda, vendo o que você precisa (nos seus estudos, projetos, etc) e vai ser ok dessa maneira!
+
+Lembre que este é um conteúdo colaborativo, então, se algo estiver faltando ou incompleto, você deve pensar sobre como melhorar ele para a comunidade.
+
 ## Android Roadmap
 
 ![Android Roadmap](./images/android_roadmap.png)
