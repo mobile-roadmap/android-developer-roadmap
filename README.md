@@ -14,9 +14,9 @@ This content is a suggested learning path to help to guide you with your Android
 
 So, in this way, we suggest you to read from the macro to the micro boxes, from top to bottom direction. This is how we thought about have a roadmap flow, in terms of needs and difficulties.
 
-In addiction, is good to know that you don't need to know everything in the image bellow to be a good Android developer. You can follow your needs (in your studies, projects, etc) and it will be ok!
+In addition, is good to know that you don't need to know everything in the image bellow to be a good Android developer. You can follow your needs (in your studies, projects, etc) and it will be ok!
 
-Remind that this is a collaborative content, so, if something is missing or incomplete, you must think about how to improve it for the community.
+Remember that this is a collaborative content, so, if something is missing or incomplete, you should think about how to improve it for the community.
 
 ## Android Roadmap
 
