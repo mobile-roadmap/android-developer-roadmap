@@ -45,6 +45,6 @@ If you think anything is missing or should not be there, or should be different,
 - Ana Coimbra [![alt text][1.1]][1][![alt text][2.1]][2]
 - Diogo Cabral [![alt text][1.1]][3][![alt text][2.1]][4]
 
-## Licence
+## License
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
