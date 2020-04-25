@@ -1,4 +1,4 @@
-# Android Developer Roadmap 2019
+# Android Developer Roadmap 2020
 
 ![GitHub contributors](https://img.shields.io/github/contributors/anacoimbrag/android-developer-roadmap.svg?style=flat-square)
 
