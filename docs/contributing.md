@@ -1,4 +1,4 @@
-# Contributing to Android Developer Roadmap 2019
+# Contributing to Android Developer Roadmap 2020
 
 **Para a versão em portuguese, [clique aqui](./contributing_pt_br.md)**
 
@@ -16,13 +16,13 @@ Our project is built with [Figma](https://www.figma.com/). It is a free tool use
 
 1. Importing the roadmap
 
-    After you clone the repository, you will find inside the `project` folder the file `Android Developer Roadmap 2019.fig`. With this file, you can import the project in your Figma profile to edit it.
+    After you clone the repository, you will find inside the `project` folder the file `Android Developer Roadmap 2020.fig`. With this file, you can import the project in your Figma profile to edit it.
 
     ![How to import a .fig file in Figma](./importing_project.png)
 
 2. Accessing and editing the content
 
-    After uploading the file, you can access the content by double-clicking the `Android Developer Roadmap 2019`. With right click, you must ungroup the content to have access to each component to edit it.
+    After uploading the file, you can access the content by double-clicking the `Android Developer Roadmap 2020`. With right click, you must ungroup the content to have access to each component to edit it.
 
     ![Ungroup the content](./ungroup_content.png)
 
@@ -38,7 +38,7 @@ Our project is built with [Figma](https://www.figma.com/). It is a free tool use
 
     ![Exporting the image](./exporting_image.png)
 
-    The pattern that we use for the .fig file is `Android Developer Roadmap 2019.fig` and for the image is `android_roadmap.png`. You must use the same.
+    The pattern that we use for the .fig file is `Android Developer Roadmap 2020.fig` and for the image is `android_roadmap.png`. You must use the same.
 
 ## Give us feedbacks!
 
