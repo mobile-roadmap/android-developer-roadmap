@@ -43,5 +43,4 @@ Nuestro proyecto está implementado usando [Figma](https://www.figma.com/). Figm
 
 ## Déjanos tu feedback!
 
-Is this file helpful? Did you have any difficulties to do your updates or suggestions? Please let us know! With you help we can not only improve the roadmap but this step by step about how to improve it with us.
 Ha sido de ayuda esta guía? Tuviste alguna dificultad haciendo alguna actualización? Tienes alguna sugerencia adicional? Déjanos saberlo por favor! Con tu ayuda no solamente mejoraremos el roadmap sino también este paso a paso.
