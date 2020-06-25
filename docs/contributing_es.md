@@ -1,6 +1,7 @@
 # Contribuye al Roadmap para Android Developer 2020
 
 **Para a versão em portuguese, [clique aqui](./contributing_pt_br.md)**
+
 **For the english version, [click here](./contributing.md)**
 
 ## Generando discusiones
