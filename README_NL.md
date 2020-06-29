@@ -14,7 +14,7 @@ We hopen dat deze roadmap het voor nieuwe developers makkelijker maakt om toffe 
 
 ## Hoe te lezen
 
-Deze content is een aanbevolen leertraject om je door je Android leerzaamheden te begleiden. Om deze roadmap te gebruiken moet je begrijpen dat de roadmap macroboxen(in het midden) en microboxen(buitenkanten) heeft. De microboxen zijn meer gedetailleerde onderwerpen voor de macroboxen
+Deze content is een aanbevolen leertraject om je door je Android leerzaamheden te begeleiden. Om deze roadmap te gebruiken moet je begrijpen dat de roadmap macroboxen(in het midden) en microboxen(buitenkanten) heeft. De microboxen zijn meer gedetailleerde onderwerpen voor de macroboxen.
 
 We raden dus aan dat je bij de macroboxen begint en werkt naar de microboxen, van boven naar beneden.
 
@@ -32,7 +32,7 @@ We willen de Android dev community over de hele wereld bedanken, met name  [Andr
 
 ## Bijdragen
 
-Als je denkt dat iets ontbreekt, veranderd moet worden, of incompleet is, kan je een pull request openen met jouw ideeën
+Als je denkt dat iets ontbreekt, veranderd moet worden, of incompleet is, kan je een pull request openen met jouw ideeën.
 
 [Hier](./docs/contributing_nl.md) kun je vinden hoe bij te dragen aan de Android developer roadmap.
 

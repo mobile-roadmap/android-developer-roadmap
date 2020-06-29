@@ -1,10 +1,10 @@
 # Bijdragen aan de Android Developer Roadmap 2020
 
+**For the english version, [click here](./contributing.md)**
+
 **Para a versão em português, [clique aqui](./contributing_pt_br.md)**
 
 **Para la versión en español, [clic aquí](./contributing_es.md)**
-
-**For the english version, [click here](./contributing.md)**
 
 ## Discussie aanmaken
 
@@ -12,15 +12,15 @@ Als je een suggestie hebt die in de roadmap zou horen en je wilt het valideren, 
 
 ## Verbeteringen aanbrengen
 
-Als je verbeteringen wilt aanbrengen aan de roadmap, adviseren wij een `pull request` aan te maken met twee betanden: het **roadmap plaatje** en het **.fig bestand**, allebei upgedatet. Probeer je pull request goed uit te leggen zodat we het goed kunnen analiseren en discusseren voor we het goedkeuren.
+Als je verbeteringen wilt aanbrengen aan de roadmap, adviseren wij een `pull request` aan te maken met twee betanden: het **roadmap plaatje** en het **.fig bestand**, allebei upgedatet. Probeer je pull request goed uit te leggen zodat we het goed kunnen analiseren en discussiëren voor we het goedkeuren.
 
 ### Figma gebruiken
 
-Ons project is in [Figma](https://www.figma.com/) gemaakt. Dit is een gratis tool om prototypes to bouwen, dit blijkt voor ons een goede tool omdat iedereen het kan gebruiken en iedereen dus kan bijdragen aand dit project.
+Ons project is in [Figma](https://www.figma.com/) gemaakt. Dit is een gratis tool om prototypes to bouwen, dit blijkt voor ons een goede tool omdat iedereen het kan gebruiken en iedereen dus kan bijdragen aan dit project.
 
 1. De roadmap importeren
 
-    Na het clonen van de repository vind je in de`project` map een bestand genaamd `Android Developer Roadmap 2020.fig`. Met dit bestand kun je het project importeren in Figma.
+    Na het clonen van de repository vind je in de `project` map een bestand genaamd `Android Developer Roadmap 2020.fig`. Met dit bestand kun je het project importeren in Figma.
 
     
 
@@ -28,13 +28,13 @@ Ons project is in [Figma](https://www.figma.com/) gemaakt. Dit is een gratis too
 
 2. Data bewerken
 
-    Na het uploaden kun je het bestand zien door te dubbelklikken op `Android Developer Roadmap 2020`. Met de rechtermuis moet je op `ungroup` klikken om elk componenet te berwerken.
+    Na het uploaden kun je het bestand zien door te dubbelklikken op `Android Developer Roadmap 2020`. Met de rechtermuis moet je op `ungroup` klikken om elk component te bewerken.
 
     ![Ungroup the content](./ungroup_content.png)
 
     
 
-    Nu kan je op elk individueel componenet clicken om te verandere wat je wilt. We hebben een major box component(de box met inhoud`Programming Language`), als je die wijzigd zal het doorgevoerd worden naar alle andere componenten.
+    Nu kan je op elk individueel component klikken om te veranderen wat je wilt. We hebben een major box component(de box met inhoud `Programming Language`), als je die wijzigt zal het doorgevoerd worden naar alle andere componenten.
 
 3. Wijzigingen exporteren
 
@@ -52,4 +52,4 @@ Ons project is in [Figma](https://www.figma.com/) gemaakt. Dit is een gratis too
 
 ## Geef ons feedback!
 
-Heeft dit bestand geholpen? Was het lastig om je update door te voeren? Laat he tons weten! Met u help kunnen we niet alleen de roadmap verbeteren maar ook deze guide.
+Heeft dit bestand geholpen? Was het lastig om je update door te voeren? Laat het ons weten! Met uw help kunnen we niet alleen de roadmap verbeteren maar ook deze guide.
