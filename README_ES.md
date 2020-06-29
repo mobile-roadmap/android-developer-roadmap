@@ -34,12 +34,12 @@ Sin ustedes este proyecto no estaría tan completo a como está actualmente.
 
 Si consideras que algún contenido sobra o que falta algún otro o que deba ser diferente, abre por favor un pull request con tus ideas.
 
-[Aquí](./docs/contributing.md) puedes encontrar cómo contribuir con el roadmap.
+[Aquí](./docs/contributing_es.md) puedes encontrar cómo contribuir con el roadmap.
 
 ## Autores
 
-[1.1]: http://i.imgur.com/wWzX9uB.png (follow me on twitter)
-[2.1]: http://i.imgur.com/9I6NRUm.png (follow me on github)
+[1.1]: http://i.imgur.com/wWzX9uB.png "follow me on twitter"
+[2.1]: http://i.imgur.com/9I6NRUm.png "follow me on github"
 
 [1]: https://twitter.com/anacoimbrag
 [2]: https://github.com/anacoimbrag
