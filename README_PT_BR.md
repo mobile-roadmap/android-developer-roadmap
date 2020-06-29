@@ -26,6 +26,10 @@ Lembre que este é um conteúdo colaborativo, então, se algo estiver faltando o
 
 ![Android Roadmap](./images/android_roadmap.png)
 
+## Android app
+
+Para ajudar você a acompanhar seu progresso, criamos um app Android com todos os assuntos. Você pode baixar o aplicativo [aqui](https://play.google.com/store/apps/details?id=com.fren.androiddeveloperroadmap).
+
 ## Agradecimentos
 
 Queremos agradecer a comunidade de desenvolvimento Android de todo o mundo que nos ajudou com diversas ideias, especialmente [Android Dev BR](https://github.com/androiddevbr). Sem vocês esse projeto não estaria tão robusto e completo quanto está.

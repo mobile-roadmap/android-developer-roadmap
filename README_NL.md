@@ -26,6 +26,12 @@ Deze inhouden is een collaboratieve inspanning, als er iets ontbreekt of incompl
 
 ![Android Roadmap](./images/android_roadmap.png)
 
+
+
+## Android app
+
+Om te helpen met het bijhouden van je vorderingen hebben we een Android app gemaakt. Deze is [hier](https://play.google.com/store/apps/details?id=com.fren.androiddeveloperroadmap) te downloaden. 
+
 ## Dankwoord
 
 We willen de Android dev community over de hele wereld bedanken, met name  [Android Dev BR](https://github.com/androiddevbr). Zonder hun zou dit project niet zo compleet zijn als dat hij nu is.
