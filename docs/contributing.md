@@ -4,6 +4,8 @@
 
 **Para la versión en español, [clic aquí](./contributing_es.md)**
 
+**Voor de nederlandse versie, [klik hier](./contributing_nl.md)**
+
 ## Generating discussions
 
 If you have any suggestion about something that should be in the roadmap and if you want to validate it, we strongly recommend that you create an `issue` on our repository. In this way, we can achieve rich discussions that certanly will help a lot of people about the adoption of the content in its developments.

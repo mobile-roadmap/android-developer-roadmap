@@ -6,6 +6,8 @@
 
 **For the english version, [click here](./README.md)**
 
+**Voor de nederlandse versie, [klik hier](./README_NL.md)**
+
 
 Basado en el [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) que ayuda a los web developers con la ruta a seguir para aprender en su extensa área, hemos implementado el Android Developer Roadmap con la misma finalidad.
 

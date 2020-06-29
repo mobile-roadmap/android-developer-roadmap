@@ -6,6 +6,8 @@
 
 **Para la versión en español, [clic auquí](./README_ES.md)**
 
+**Voor de nederlandse versie, [klik hier](./README_NL.md)**
+
 Based on the [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) that helps web developers with a path of what to learn on this extensive area, we developed the Android Developer Roadmap with the same goal.
 
 We hope that with this roadmap new developers will find it easier to start building beautiful Android applications.
@@ -36,8 +38,8 @@ If you think anything is missing or should not be there, or should be different,
 
 ## Authors
 
-[1.1]: http://i.imgur.com/wWzX9uB.png (follow me on twitter)
-[2.1]: http://i.imgur.com/9I6NRUm.png (follow me on github)
+[1.1]: http://i.imgur.com/wWzX9uB.png "follow me on twitter"
+[2.1]: http://i.imgur.com/9I6NRUm.png "follow me on github"
 
 [1]: https://twitter.com/anacoimbrag
 [2]: https://github.com/anacoimbrag
