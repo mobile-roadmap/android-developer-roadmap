@@ -12,7 +12,7 @@ If you have any suggestion about something that should be in the roadmap and if 
 
 ## Creating improvements
 
-If you have any improvements that you want to do directly in the roadmap, we recomend that you create a `pull request` with basicaly two files: the **roadmap image** and the **.fig file**, both updated. Try to be descriptive in your PR, so we can analyze and discuss about what you are proposing. 
+If you have any improvements that you want to do directly in the roadmap, we recommend that you create a `pull request` with basicaly two files: the **roadmap image** and the **.fig file**, both updated. Try to be descriptive in your PR, so we can analyze and discuss about what you are proposing. 
 
 ### Using Figma
 
@@ -30,7 +30,7 @@ Our project is built with [Figma](https://www.figma.com/). It is a free tool use
 
     ![Ungroup the content](./ungroup_content.png)
 
-    Now you can click on each component, inner component end everythinh else to change what you want. Notice that we have a major box component (the box with the content `Programming Language`) and changing it the changes will be applied to each other component.
+    Now you can click on each component, inner component end everything else to change what you want. Notice that we have a major box component (the box with the content `Programming Language`) and changing it the changes will be applied to each other component.
 
 3. Exporting the changes
 
@@ -46,4 +46,4 @@ Our project is built with [Figma](https://www.figma.com/). It is a free tool use
 
 ## Give us feedbacks!
 
-Is this file helpful? Did you have any difficulties to do your updates or suggestions? Please let us know! With you help we can not only improve the roadmap but this step by step about how to improve it with us.
+Is this file helpful? Did you have any difficulties to do your updates or suggestions? Please let us know! With your help we can not only improve the roadmap but also this step by step guide.
