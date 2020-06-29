@@ -28,7 +28,7 @@ Lembre que este é um conteúdo colaborativo, então, se algo estiver faltando o
 
 ## Android app
 
-Para ajudar você a acompanhar seu progresso, criamos um app Android com todos os assuntos. Você pode baixar o aplicativo [aqui](https://play.google.com/store/apps/details?id=com.fren.androiddeveloperroadmap).
+Para ajudar você a acompanhar seu progresso, [@Fren1100](https://github.com/Fren1100) criou um app Android com todos os assuntos. Você pode baixar o aplicativo [aqui](https://play.google.com/store/apps/details?id=com.fren.androiddeveloperroadmap).
 
 ## Agradecimentos
 

@@ -30,7 +30,7 @@ Deze inhouden is een collaboratieve inspanning, als er iets ontbreekt of incompl
 
 ## Android app
 
-Om te helpen met het bijhouden van je vorderingen hebben we een Android app gemaakt. Deze is [hier](https://play.google.com/store/apps/details?id=com.fren.androiddeveloperroadmap) te downloaden. 
+Om te helpen met het bijhouden van je vorderingen heeft [@Fren1100](https://github.com/Fren1100) een Android app gemaakt. Deze is [hier](https://play.google.com/store/apps/details?id=com.fren.androiddeveloperroadmap) te downloaden. 
 
 ## Dankwoord
 

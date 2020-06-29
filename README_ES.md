@@ -31,7 +31,7 @@ Recuerda que esto es un contenido colaborativo, por tanto, si de pronto falta al
 
 ## Android app
 
-Para ayudarlo a realizar un seguimiento de su progreso, creamos una aplicación de Android con todos los temas. Puede descargar la aplicación [aquí] (https://play.google.com/store/apps/details?id=com.fren.androiddeveloperroadmap).
+Para ayudarlo a realizar un seguimiento de su progreso, [@Fren1100](https://github.com/Fren1100) creó una aplicación de Android con todos los temas. Puede descargar la aplicación [aquí](https://play.google.com/store/apps/details?id=com.fren.androiddeveloperroadmap).
 
 ## Agradecimientos
 

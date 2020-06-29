@@ -30,7 +30,7 @@ Remember that this is a collaborative content, so, if something is missing or in
 
 ## Android app
 
-To help you keep track of your progress we created an Android app with all the subjects. You can download the app [here](https://play.google.com/store/apps/details?id=com.fren.androiddeveloperroadmap). 
+To help you keep track of your progress [@Fren1100](https://github.com/Fren1100) created an Android app with all the subjects. You can download the app [here](https://play.google.com/store/apps/details?id=com.fren.androiddeveloperroadmap). 
 
 ## Acknowledgments
 
