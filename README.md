@@ -26,7 +26,9 @@ Remember that this is a collaborative content, so, if something is missing or in
 
 ![Android Roadmap](./images/android_roadmap.png)
 
+## Roadmap Study Content
 
+You can now access [this file](https://github.com/mobile-roadmap/android-developer-roadmap/blob/master/ROADMAP_STUDY_CONTENT.md) to see all suggestions for community content, related to the topics on our roadmap!
 
 ## Android app
 
