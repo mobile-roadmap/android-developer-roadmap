@@ -26,6 +26,10 @@ Lembre que este é um conteúdo colaborativo, então, se algo estiver faltando o
 
 ![Android Roadmap](./images/android_roadmap.png)
 
+## Conteúdos para estudo do roadmap
+
+Agora você pode acessar [este arquivo](https://github.com/mobile-roadmap/android-developer-roadmap/blob/master/ROADMAP_STUDY_CONTENT.md) para ver todas as sugestões de conteúdo da comunidade, relacionadas aos tópicos do nosso roadmap!
+
 ## Android app
 
 Para ajudar você a acompanhar seu progresso, [@Fren1100](https://github.com/Fren1100) criou um app Android com todos os assuntos. Você pode baixar o aplicativo [aqui](https://play.google.com/store/apps/details?id=com.fren.androiddeveloperroadmap).
