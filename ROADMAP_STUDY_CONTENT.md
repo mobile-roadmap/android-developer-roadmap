@@ -11,9 +11,18 @@ Please, use the description of your suggested content as a link like this exampl
 
 ## Contents
 
-### Programming Language
+### Large Collections
 
-* 
+* [Android and Kotlin conference videos](https://github.com/igorwojda/android-kotlin-conference-videos)
+* [Systems Design](https://github.com/checkcheckzz/system-design-interview)
+
+### Programming Languages
+
+#### Kotlin
+* [Kotlin conference videos](https://github.com/igorwojda/android-kotlin-conference-videos)
+* Kotlin Puzzlers
+  * [by Anton Keks](https://github.com/angryziber/kotlin-puzzlers)
+  * [by Dmitry Kandalov](https://github.com/dkandalov/kotlin-puzzlers)
 
 ### Android Studio
 
