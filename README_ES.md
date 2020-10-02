@@ -27,6 +27,9 @@ Recuerda que esto es un contenido colaborativo, por tanto, si de pronto falta al
 
 ![Android Roadmap](./images/android_roadmap.png)
 
+## Contenido de estudio de la hoja de ruta (Roadmap)
+
+¡Ahora puedes acceder [aquí](https://github.com/mobile-roadmap/android-developer-roadmap/blob/master/ROADMAP_STUDY_CONTENT.md) para ver todas las sugerencias de contenido para la comunidad, relacionadas con los temas de la hoja de ruta (roadmap)!
 
 
 ## Android app
