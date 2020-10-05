@@ -23,6 +23,7 @@ Please, use the description of your suggested content as a link like this exampl
 * Kotlin Puzzlers
   * [by Anton Keks](https://github.com/angryziber/kotlin-puzzlers)
   * [by Dmitry Kandalov](https://github.com/dkandalov/kotlin-puzzlers)
+* [Kotlin Bootcamp for Programmers](https://developer.android.com/courses/kotlin-bootcamp/overview)
 
 ### Android Studio
 
@@ -38,7 +39,7 @@ Please, use the description of your suggested content as a link like this exampl
 
 ### User Interface
 
-* 
+* Pathway: [Apply Material Design to Android apps in Kotlin](https://developer.android.com/courses/pathways/mdc-kotlin)
 
 ### More User Interface
 
@@ -98,4 +99,5 @@ Please, use the description of your suggested content as a link like this exampl
 
 ### Also Nice to Know
 
-* 
+* [Android Official Training Courses](https://developer.android.com/courses)
+* [Android Basics Nanodegree](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
