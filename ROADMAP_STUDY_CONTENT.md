@@ -28,9 +28,10 @@ Please, use the description of your suggested content as a link like this exampl
 
 ### Android Studio
 
-This repo contains collection of video and few websites explaning ways to install android studio in different operating systems.
+Contains collection of video and few websites explaning ways to install android studio in different operating systems.
+Also provides ways to use Android Studio in an effective way
 
-* [Install Android studio](https://github.com/asaikarthikeya/Androidstudio--install)
+* [Android studio](https://github.com/asaikarthikeya/Androidstudio--install)
 
 ### App Manifest
 
