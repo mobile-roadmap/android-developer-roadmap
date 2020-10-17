@@ -32,7 +32,7 @@ Please, use the description of your suggested content as a link like this exampl
 
 ### App Manifest
 
-#### videos
+#### Videos
 
 * [Android Menifest XML](https://www.youtube.com/watch?v=HA126TkqvDM)
 * [Android Manifest File Tutorial 2020](https://www.youtube.com/watch?v=jg46TQBziKg)
@@ -41,13 +41,19 @@ Please, use the description of your suggested content as a link like this exampl
 #### Articles
 
 * [App Manifest Overview](https://developer.android.com/guide/topics/manifest/manifest-intro#:~:text=The%20manifest%20file%20describes%20essential,usually%20matches%20your%20code's%20namespace.)
-
 * [AndroidManifest.xml file in android](https://www.javatpoint.com/AndroidManifest-xml-file-in-android)
 
 
 ### App Components
 
-* 
+#### Videos
+* [Application Components](https://www.youtube.com/watch?v=E27MJ_ibgMU)
+* [Overview of Android: Key App Components](https://www.youtube.com/watch?v=-8hNNvHLQwA)
+* [Android - Application Components](https://www.youtube.com/watch?v=8hOzHsz71vE)
+#### Articles
+* [Android - Application Components](https://www.tutorialspoint.com/android/android_application_components.htm)
+* [Application Fundamentals](https://developer.android.com/guide/components/fundamentals)
+* [Components of an Android Application](https://www.geeksforgeeks.org/components-android-application/)
 
 ### User Interface
 
