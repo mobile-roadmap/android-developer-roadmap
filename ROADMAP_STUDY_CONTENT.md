@@ -32,7 +32,18 @@ Please, use the description of your suggested content as a link like this exampl
 
 ### App Manifest
 
-* 
+#### videos
+
+* [Android Menifest XML](https://www.youtube.com/watch?v=HA126TkqvDM)
+* [Android Manifest File Tutorial 2020](https://www.youtube.com/watch?v=jg46TQBziKg)
+* [Manifest file in Android](https://www.youtube.com/watch?v=rwJwX6wMTxQ)
+
+#### Articles
+
+* [App Manifest Overview](https://developer.android.com/guide/topics/manifest/manifest-intro#:~:text=The%20manifest%20file%20describes%20essential,usually%20matches%20your%20code's%20namespace.)
+
+* [AndroidManifest.xml file in android](https://www.javatpoint.com/AndroidManifest-xml-file-in-android)
+
 
 ### App Components
 
