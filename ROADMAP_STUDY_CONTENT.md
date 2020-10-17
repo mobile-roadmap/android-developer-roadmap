@@ -117,21 +117,24 @@ Please, use the description of your suggested content as a link like this exampl
 *  [Getting started with Android Jetpack](https://developer.android.com/jetpack/getting-started)
 *  [Android Jetpack Architecture Components](https://medium.com/kayvan-kaseb/android-jetpack-architecture-components-119c9c973d7e)
 
-### Architecture Components
-
-* 
-
 ### Google Libraries
-
-* 
+#### Videos
+* [Android Support Library Overview](https://www.youtube.com/watch?v=3PIc-DuEU2s)
+* [Android Basics : What are Support Libraries?](https://www.youtube.com/watch?v=6TALtMWOq7w)
+#### Articles
+* [Support Library](https://developer.android.com/topic/libraries/support-library)
+* [Support Library Setup](https://developer.android.com/topic/libraries/support-library/setup)
 
 ### Security
 
-* 
 
 ### Sensors
-
-* 
+#### Videos
+* [Various Sensors on Smartphones](https://www.youtube.com/watch?v=c43hmt_-7d8)
+* [Sensor Names of Android phone](https://www.youtube.com/watch?v=B45VqQQRlZM)
+#### Articles
+* [Sensors](https://developer.android.com/guide/topics/sensors/sensors_overview)
+* [Android - Sensors](https://www.tutorialspoint.com/android/android_sensors.htm)
 
 ### Content Providers
 
