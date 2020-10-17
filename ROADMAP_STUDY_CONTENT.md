@@ -56,36 +56,66 @@ Please, use the description of your suggested content as a link like this exampl
 * [Components of an Android Application](https://www.geeksforgeeks.org/components-android-application/)
 
 ### User Interface
-
-* Pathway: [Apply Material Design to Android apps in Kotlin](https://developer.android.com/courses/pathways/mdc-kotlin)
+* [The Android OS User Interface (Google I/O'19)](https://www.youtube.com/watch?v=nWbW58RMteI)
+* [Android UI Design Explained](https://www.youtube.com/watch?v=PJ3RdfJ4Np8)
+* [User Interface OverView](https://www.youtube.com/watch?v=lefcBIDsQgs)
 
 ### More User Interface
+#### Java Material Design
+* [Material Components for Android](https://material.io/develop/android/docs/getting-started)
+* [Android Material Design Tutorials](https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lzd9-NUrP5Wi18OMi4R-zs_)
+* [Android Material Design Tutorial](https://www.youtube.com/playlist?list=PLonJJ3BVjZW6CtAMbJz1XD8ELUs1KXaTD)
 
-* 
+#### Kotlin Material Design
+* [Apply Material Design to Android apps in Kotlin](https://developer.android.com/courses/pathways/mdc-kotlin)
+* [Android Studio Material Design](https://www.youtube.com/playlist?list=PLCf5IsO6cvqFz_a4cHCPSx61aJ-dklSDU)
 
 ### Accessibility
-
-* 
+#### Videos
+* [Easy Android accessibility - Android Conference Talks](https://www.youtube.com/watch?v=yxNROzu9nQQ)
+* [Making Android Accessibility Easy (Android Dev Summit '18)](https://www.youtube.com/watch?v=R2NftUX7rDM)
+* [Demystifying Android Accessibility Development (Google I/O'19)](https://www.youtube.com/watch?v=bTodlNvQGfY)
+#### Articles
+* [Android accessibility overview](https://support.google.com/accessibility/android/answer/6006564?hl=en)
+* [Build more accessible apps](https://developer.android.com/guide/topics/ui/accessibility)
 
 ### Storage
+#### Videos
+* [Android Data Storage Options](https://www.youtube.com/watch?v=Oa1mlObffiA) 
+* [Storage access with Android](https://www.youtube.com/watch?v=RjyYCUW-9tY) 
+* [Preparing for scoped storage (Android Dev Summit '19)](https://www.youtube.com/watch?v=UnJ3amzJM94) 
 
-* 
+#### Articles
+* [Data and file storage overview](https://developer.android.com/training/data-storage)
+* [Storage Options](https://stuff.mit.edu/afs/sipb/project/android/docs/guide/topics/data/data-storage.html)
 
 ### Architecture
-
-* 
+#### Videos
+* [Android Architecture](https://www.youtube.com/watch?v=y3HravY897E)
+* [Androidology -Architecture Overview](https://www.youtube.com/watch?v=QBGfUs9mQYY)
+#### Articles
+* [Platform Architecture](https://developer.android.com/guide/platform)
+* [Android - Architecture](https://www.tutorialspoint.com/android/android_architecture.htm)
 
 ### Build Configuration
-
-* 
+* [Create and edit run/debug configurations](https://developer.android.com/studio/run/rundebugconfig)
+* [Configure your build](https://developer.android.com/studio/build)
+* [Configure build variants](https://developer.android.com/studio/build/build-variants)
 
 ### Network Handling
-
-* 
+* [Android - Network Connection](https://www.tutorialspoint.com/android/android_network_connection.htm#:~:text=Android%20lets%20your%20application%20connect,or%20a%20mobile%20network%20connection.)
+* [Perform network operations overview](https://developer.android.com/training/basics/network-ops)
+* [Connect to the network](https://developer.android.com/training/basics/network-ops/connecting)
+* [Manage network usage](https://developer.android.com/training/basics/network-ops/managing)
 
 ### Android Jetpack
-
-* 
+#### Videos
+*  [Introducing Android Jetpack](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9mxIBd0DRw9gwXuQshgmn2)
+*  [Android Jetpack: Improve Your App's Architecture](https://www.youtube.com/watch?v=7p22cSzniBM)
+#### Articles
+*  [Jetpack](https://developer.android.com/jetpack)
+*  [Getting started with Android Jetpack](https://developer.android.com/jetpack/getting-started)
+*  [Android Jetpack Architecture Components](https://medium.com/kayvan-kaseb/android-jetpack-architecture-components-119c9c973d7e)
 
 ### Architecture Components
 
