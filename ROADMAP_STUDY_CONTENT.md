@@ -63,11 +63,11 @@ Please, use the description of your suggested content as a link like this exampl
 
 ### Network Handling
 
-* 
+* [Using OkHttp](https://guides.codepath.com/android/Using-OkHttp)
+* [Consuming API with Retrofit](https://guides.codepath.com/android/consuming-apis-with-retrofit)
 
 ### Android Jetpack
-
-* 
+*  [Getting Started with Jetpack](https://developer.android.com/jetpack/getting-started)
 
 ### Architecture Components
 
