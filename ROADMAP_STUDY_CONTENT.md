@@ -126,7 +126,13 @@ Please, use the description of your suggested content as a link like this exampl
 * [Support Library Setup](https://developer.android.com/topic/libraries/support-library/setup)
 
 ### Security
-
+#### Videos
+* [Secure your data -Deep dive into encryption and security ](https://www.youtube.com/watch?v=W3mwSnF1n50)
+* [Security on Android](https://www.youtube.com/watch?v=0uG_RKiDmQY)
+* [Android Security Architecture](https://www.youtube.com/watch?v=HAYk7fVaMGM)
+#### Articles
+* [Security Architecture of Android](https://www.androidauthority.com/the-security-architecture-of-android-11063/#:~:text=Android%20is%20a%20privilege%2Dseparated%20operating%20system.&text=Speaking%20in%20terms%20of%20layman,contacts%20%26%20e%2Dmails).)
+* [Secure an Android Device](https://source.android.com/security)
 
 ### Sensors
 #### Videos
@@ -137,17 +143,31 @@ Please, use the description of your suggested content as a link like this exampl
 * [Android - Sensors](https://www.tutorialspoint.com/android/android_sensors.htm)
 
 ### Content Providers
+#### Videos
+* [ContentProviders](https://www.youtube.com/playlist?list=PLmry8Xfj6opxDRqS2Q5LT6CKbPjlsUUGW)
+* [Android ContentProviders](https://www.youtube.com/watch?v=cdhw6AAY5v8)
 
-* 
+#### Articles
+* [Content providers](https://developer.android.com/guide/topics/providers/content-providers)
+* [Android - Content Providers](https://www.tutorialspoint.com/android/android_content_providers.htm)
+
 
 ### Animation
+#### Videos
+* [Animation Android](https://www.youtube.com/playlist?list=PLrnPJCHvNZuARS1W7qMt-zxBNqWYZpOg6)
+* [Get Animated (Android Dev Summit '18)](https://www.youtube.com/watch?v=N_x7SV3I3P0)
 
-* 
-
+#### Articles
+* [Introduction to animations](https://developer.android.com/training/animation/overview)
+* [Android - Animations](https://www.tutorialspoint.com/android/android_animations.htm)
 ### App Publishing
+#### Videos
+* [Publish Android apps on Google play -Step by Step guide](https://www.youtube.com/watch?v=AWawL5HFn64)
+* [Publish app on Play Store](https://www.youtube.com/watch?v=ieWtCaWkzYQ)
 
-* 
-
+#### Articles
+* [Publish your app](https://developer.android.com/studio/publish)
+* [Developer Console](https://play.google.com/apps/publish/signup/)
 ### Also Nice to Know
 
 * [Android Official Training Courses](https://developer.android.com/courses)
