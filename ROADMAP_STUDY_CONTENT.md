@@ -28,7 +28,7 @@ Please, use the description of your suggested content as a link like this exampl
 
 ### Android Studio
 
-* [Install Android studio](https://github.com/asaikarthikeya/Androidstudio--install)
+* [Install and Run Android studio on your PC](https://github.com/asaikarthikeya/Androidstudio--install)
 
 ### App Manifest
 
