@@ -28,7 +28,7 @@ Please, use the description of your suggested content as a link like this exampl
 
 ### Android Studio
 
-* [Android studio install and Efficent settings](https://github.com/asaikarthikeya/Androidstudio--install)
+* [Install Android studio](https://github.com/asaikarthikeya/Androidstudio--install)
 
 ### App Manifest
 
