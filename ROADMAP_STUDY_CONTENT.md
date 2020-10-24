@@ -107,6 +107,8 @@ Please, use the description of your suggested content as a link like this exampl
 * [Perform network operations overview](https://developer.android.com/training/basics/network-ops)
 * [Connect to the network](https://developer.android.com/training/basics/network-ops/connecting)
 * [Manage network usage](https://developer.android.com/training/basics/network-ops/managing)
+* [Using OkHttp](https://guides.codepath.com/android/Using-OkHttp)
+* [Consuming API with Retrofit](https://guides.codepath.com/android/consuming-apis-with-retrofit)
 
 ### Android Jetpack
 #### Videos
