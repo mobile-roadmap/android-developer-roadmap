@@ -9,12 +9,11 @@ Por favor, use la descripción de su contenido sugerido como un enlace como este
 * [Laboratorio de código de fundamentos de Android](https://codelabs.developers.google.com/codelabs/android-training-welcome/index.html?index=..%2F..index#0)
 
 ## Contenido
+//Kindly add resources 
 
 ### Grandes colecciones
 
 ### Lenguajes de programación
-
-#### Kotlin
 
 ### Instalación de Android Studio
 
