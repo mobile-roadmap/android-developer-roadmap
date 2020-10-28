@@ -10,7 +10,7 @@ Por favor, use la descripción de su contenido sugerido como un enlace como este
 
 ## Contenido
 ### Grandes colecciones
-//Por favor adjunte recursos relacionados
+* Por favor adjunte recursos relacionados
 
 
 
@@ -18,25 +18,32 @@ Por favor, use la descripción de su contenido sugerido como un enlace como este
 * Por favor adjunte recursos relacionados
 
 ### Instalación de Android Studio
-
+* Por favor adjunte recursos relacionados
 ### Manifiesto de la aplicación
-
+* Por favor adjunte recursos relacionados
 ### Componentes de la aplicación
-
+* Por favor adjunte recursos relacionados
 ### Interfaz de usuario
-
+* Por favor adjunte recursos relacionados
 ### Accesibilidad
-
+* Por favor adjunte recursos relacionados
 ### Almacenamiento
-
+* Por favor adjunte recursos relacionados
 ### Arquitectura
-
+* Por favor adjunte recursos relacionados
 ### Construir configuración
-
+* Por favor adjunte recursos relacionados
 ### Manejo de red
+* Por favor adjunte recursos relacionados
 ### Bibliotecas de Google
+* Por favor adjunte recursos relacionados
 ### Seguridad
+* Por favor adjunte recursos relacionados
 ### Sensores
+* Por favor adjunte recursos relacionados
 ### Proveedores de contenido
+* Por favor adjunte recursos relacionados
 ### Animación
+* Por favor adjunte recursos relacionados
 ### Publicación de aplicaciones
+* Por favor adjunte recursos relacionados
