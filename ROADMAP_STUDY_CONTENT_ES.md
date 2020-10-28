@@ -10,12 +10,12 @@ Por favor, use la descripción de su contenido sugerido como un enlace como este
 
 ## Contenido
 ### Grandes colecciones
-
-Por favor adjunte recursos relacionados
+//Por favor adjunte recursos relacionados
 
 
 
 ### Lenguajes de programación
+* Por favor adjunte recursos relacionados
 
 ### Instalación de Android Studio
 
