@@ -6,7 +6,7 @@ Hier kunt u artikellinks, cursusvoorstellen, etc. toevoegen die gerelateerd zijn
 
 ## Bijdragende
 Gebruik uw voorgestelde inhoudsbeschrijving als een link zoals in dit voorbeeld:
-* [Android Fundamentals Code Lab] (https://codelabs.developers.google.com/codelabs/android-training-welcome/index.html?index=..%2F..index#0)
+* [Android Fundamentals Code Lab](https://codelabs.developers.google.com/codelabs/android-training-welcome/index.html?index=..%2F..index#0)
 
 ## Inhoud
 ### Grote collecties
