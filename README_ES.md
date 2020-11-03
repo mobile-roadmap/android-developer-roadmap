@@ -15,11 +15,11 @@ Esperamos que con esta hoja de ruta, los nuevos desarrolladores encuentren de un
 
 ## Cómo leerla
 
-Estos contenidos, son una ruta sugerida para ayudarte en tus estudios de Android. Para usarlos, ten en cuenta que el diagrama se basa en macro boxes (nodo padre), que estan en la mitad del diagrama (siguiendo la línea continua), y desde allí tenemos micro boxes (nodos hijos), con contenidos más puntuales acerca del tópico del nodo padre.
+Estos contenidos, son una ruta sugerida para ayudarte en tus estudios de Android. Para usarlos, ten en cuenta que el diagrama se basa en macro boxes (nodo padre), que están en la mitad del diagrama (siguiendo la línea continua), y desde allí tenemos micro boxes (nodos hijos), con contenidos más puntuales acerca del tópico del nodo padre.
 
 De esta manera, te sugerimos para su mejor lectura y comprensión, comenzar leyendo de arriba a abajo. Así es como creemos que la hoja de ruta debe fluir, basados en lo que se necesita y su grado de dificultad.
 
-Es importante resaltar que no debes saber absolutamente todo lo que aparece en el diagrama para ser un muy buen desarrollador de Android. Be paso a paso según tus necesidades (tus estudios, proyectos personales, etc) y todo irá bien.
+Es importante resaltar que no debes saber absolutamente todo lo que aparece en el diagrama para ser un muy buen desarrollador de Android. Ve paso a paso según tus necesidades (tus estudios, proyectos personales, etc) y todo irá bien.
 
 Recuerda que esto es un contenido colaborativo, por tanto, si de pronto falta algo, piensa en cómo mejorarlo y hacerlo disponible para la comunidad.
 
