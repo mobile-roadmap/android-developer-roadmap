@@ -8,7 +8,7 @@
 
 **Voor de nederlandse versie, [klik hier](./README_NL.md)**
 
-Web geliştiricilerine bu kapsamlı alanda ne öğreneceklerine dair bir yol haritasıyla yardımcı olan bu yol haritasını [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) temel alarak, aynı amaçla Android Geliştirici Yol Haritası'nı geliştirdik. 
+Web geliştiricilerine bu kapsamlı alanda ne öğreneceklerine dair bir yol haritasıyla yardımcı olan bu yol haritasını [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) temel alarak, aynı amaçla Android Geliştirici Yol Haritası'nı geliştirdik.    
 
 Bu yol haritası yardımıyla yeni Android geliştiricilerinin, daha iyi android uygulamaları oluşturmayı daha kolay bulacağını umuyoruz. 
 
